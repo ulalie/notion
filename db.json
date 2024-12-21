@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "12345678Ab",
+      "date": 1700313547023
+    },
+    {
+      "id": "n3u35qkx7y",
+      "email": "ula@mail.ru",
+      "password": "123456789Aa",
+      "date": 1732566125224
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Первая заметка",
+      "body": "Тело первой заметки",
+      "createdAt": 1700313547024,
+      "authorId": 1
+    }
+  ]
+}
